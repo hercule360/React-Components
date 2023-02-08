@@ -1,0 +1,11 @@
+.Title {
+    display: flex;
+    justify-content: center;
+   
+    
+}
+.cards{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+}
